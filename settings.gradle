@@ -1,2 +1,3 @@
 rootProject.name = 'jwp-next-step'
+include 'com.cooco119.jwpnextstep'
 
