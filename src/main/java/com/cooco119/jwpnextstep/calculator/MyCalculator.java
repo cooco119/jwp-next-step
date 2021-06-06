@@ -17,7 +17,7 @@ public class MyCalculator {
     }
 
     private boolean isInputValid(String input) {
-        return input.length() != 0;
+        return input != null && input.length() != 0;
     }
 
     private int addIfAllPositive(int[] args) {

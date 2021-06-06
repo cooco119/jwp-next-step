@@ -21,6 +21,11 @@ public class MyCalculatorTest {
     }
 
     @Test
+    public void Calculator_should_return_zero_when_null_input() {
+        assertEquals(0, calculator.eval(null));
+    }
+
+    @Test
     public void Calculator_should_return_asis_when_no_separators() {
         assertEquals(2, calculator.eval("2"));
     }
