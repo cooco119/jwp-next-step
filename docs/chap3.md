@@ -13,8 +13,7 @@
 - [ ] dependency 복사
 - [ ] 기본 webserver 구현
 
-    - [ ] socket or tcp handshake
-    - [ ] http request handler
+    - [x] http request handler
     - [ ] static resource handler
     - [ ] 인메모리 db(?) 구현 - 원래 인메모리로 되어있네요ㅋㅋ
 
