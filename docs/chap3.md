@@ -10,7 +10,7 @@
 
 ### 기본 구현 (스켈레톤 따라가기)
 
-- [ ] dependancy 복사
+- [ ] dependency 복사
 - [ ] 기본 webserver 구현
 
     - [ ] socket or tcp handshake
@@ -22,3 +22,17 @@
 - [ ] 프론트 구현 - 원래는 jquery로 되어있는데, vue로 할까 ㅎㅎ
 
 ### 이후 과제
+
+## 기록
+
+### Gradle 사용
+
+- 원래 스켈레톤은 maven을 쓰지만, 나는 내 repo에 계속 구현하고 싶으므로, gradle을 그대로 사용했다.
+
+### Logger 변경
+
+- 기존에는 Logback을 쓴 걸로 보이는데, 요즘 트렌드는 slf4j랑 log4j2를 쓰는 것으로 보임
+- 따라서 해당 세팅으로 변경
+
+  - reference : http://dveamer.github.io/java/SLF4J-Log4J2.html
+  
