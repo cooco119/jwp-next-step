@@ -10,15 +10,15 @@
 
 ### 기본 구현 (스켈레톤 따라가기)
 
-- [] dependancy 복사
-- [] 기본 webserver 구현
+- [ ] dependancy 복사
+- [ ] 기본 webserver 구현
 
-    - [] socket or tcp handshake
-    - [] http request handler
-    - [] static resource handler
-    - [] 인메모리 db(?) 구현 - 원래 인메모리로 되어있네요ㅋㅋ
+    - [ ] socket or tcp handshake
+    - [ ] http request handler
+    - [ ] static resource handler
+    - [ ] 인메모리 db(?) 구현 - 원래 인메모리로 되어있네요ㅋㅋ
 
-- [] 테스트 복사해오기 - http request handler 및 IO Util 관련 테스트
-- [] 프론트 구현 - 원래는 jquery로 되어있는데, vue로 할까 ㅎㅎ
+- [ ] 테스트 복사해오기 - http request handler 및 IO Util 관련 테스트
+- [ ] 프론트 구현 - 원래는 jquery로 되어있는데, vue로 할까 ㅎㅎ
 
 ### 이후 과제
